@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "371843776567",
+    "firebase_url": "https://habitica-4debc.firebaseio.com",
+    "project_id": "habitica-4debc",
+    "storage_bucket": "habitica-4debc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371843776567:android:d2e86a80d3b5f4f7",
+        "android_client_info": {
+          "package_name": "com.habitrpg.android.habitica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371843776567-2a4ot03crisrqudc6cbp9ochlpfr5n9l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3mmBTzq0SplgkZbakAD1R3ma101QlquM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371843776567-2a4ot03crisrqudc6cbp9ochlpfr5n9l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371843776567:android:ffd6914ad1a696e4",
+        "android_client_info": {
+          "package_name": "com.habitrpg.android.habitica.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371843776567-2a4ot03crisrqudc6cbp9ochlpfr5n9l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3mmBTzq0SplgkZbakAD1R3ma101QlquM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371843776567-2a4ot03crisrqudc6cbp9ochlpfr5n9l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
